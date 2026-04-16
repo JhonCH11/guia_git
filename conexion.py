@@ -24,3 +24,5 @@ conexion = mysql.connector.connect(user='root',
 #Este print sirve para confirmar que la conexión fue exitosa.
 # Si hay error, el programa se detendrá antes de llegar aquí.
 print("Conexión exitosa a la base de datos MySQL")
+
+print("empezar a mandar cambios")
