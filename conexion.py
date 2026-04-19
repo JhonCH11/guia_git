@@ -28,3 +28,4 @@ if conexion.is_connected():
 
 print("empezar a mandar cambios")
 print("cambios para git stash")
+print("Cambios para cherry pick")
