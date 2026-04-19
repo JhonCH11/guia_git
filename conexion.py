@@ -25,9 +25,5 @@ conexion = mysql.connector.connect(user='root',
 # Si hay error, el programa se detendrá antes de llegar aquí.
 print("Conexión exitosa a la base de datos MySQL")
 
-<<<<<<< Updated upstream
 print("empezar a mandar cambios")
 print("cambios para git stash")
-=======
-print("empezar a mandar cambios de git stash")
->>>>>>> Stashed changes
