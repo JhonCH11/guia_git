@@ -4,7 +4,7 @@ package com.mycompany.zoologico;
 
 
 public class Zoologico {
-
+//SE IMPLEMENTO EL TRY CASTCH Y LIST
     public static void main(String[] args) {
         Leon leon = new Leon(
                 "Sabana", 1.2, 2.0, 180,
